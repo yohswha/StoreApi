@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yohswhabello/Projects/StoreApi/StoreApi.csproj": {}
+    "/Users/yohswhabello/Desktop/dotnetCore/StoreApi/StoreApi.csproj": {}
   },
   "projects": {
-    "/Users/yohswhabello/Projects/StoreApi/StoreApi.csproj": {
+    "/Users/yohswhabello/Desktop/dotnetCore/StoreApi/StoreApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yohswhabello/Projects/StoreApi/StoreApi.csproj",
+        "projectUniqueName": "/Users/yohswhabello/Desktop/dotnetCore/StoreApi/StoreApi.csproj",
         "projectName": "StoreApi",
-        "projectPath": "/Users/yohswhabello/Projects/StoreApi/StoreApi.csproj",
+        "projectPath": "/Users/yohswhabello/Desktop/dotnetCore/StoreApi/StoreApi.csproj",
         "packagesPath": "/Users/yohswhabello/.nuget/packages/",
-        "outputPath": "/Users/yohswhabello/Projects/StoreApi/obj/",
+        "outputPath": "/Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yohswhabello/.nuget/NuGet/NuGet.Config"
@@ -43,6 +43,12 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
