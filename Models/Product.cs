@@ -13,16 +13,12 @@ namespace StoreApi.Models
         [Required, StringLength(50)]
         public string? Name { get; set; }
         public decimal Price { get; set; }
-        [StringLength(50)]
-        public string? Descripcion { get; set; }
-        public DateTime FechaExpiracion { get; set; }
         [ForeignKey("Category")]
         public int CategoryId { get; set; } // Clave foránea de Category
         public Category? Category { get; set; }
         [ForeignKey("Supplier")]
         public int SupplierId { get; set; } // Clave foránea de Supplier
         public Supplier? Supplier { get; set; }
-        public int Estado { get; set; }
     }
 
 
