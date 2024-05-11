@@ -1,31 +1,34 @@
-﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{40DECB71-3D2F-4580-9854-8774B48C44FA}|http">
-  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+﻿<Properties StartupConfiguration="{40DECB71-3D2F-4580-9854-8774B48C44FA}|https" GitUserInfo="UsingMD">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/CategoryRepository.cs">
     <Files>
-      <File FileName="Models/Supplier.cs" />
-      <File FileName="Models/Category.cs" />
-      <File FileName="Models/Product.cs" />
-      <File FileName="Models/TipoDocumento.cs" />
-      <File FileName="Models/Address.cs" />
       <File FileName="Program.cs" />
-      <File FileName="appsettings.json" Line="16" Column="1" />
+      <File FileName="Models/IProductRepository.cs" />
+      <File FileName="Models/ICategoryRepository.cs" />
+      <File FileName="Models/ISupplierRepository.cs" />
+      <File FileName="Models/ProductRepository.cs" />
+      <File FileName="Models/ApplicationDbContext.cs" />
+      <File FileName="Models/Product.cs" />
+      <File FileName="Models/CategoryRepository.cs" Line="2" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="StoreApi">
             <Node name="StoreApi">
-              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="CategoryRepository.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.StoreApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
