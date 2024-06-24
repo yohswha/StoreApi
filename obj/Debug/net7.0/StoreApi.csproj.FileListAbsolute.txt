@@ -252,8 +252,10 @@
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.DotNet.Scaffolding.Shared.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
@@ -273,6 +275,7 @@
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/NuGet.Common.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/NuGet.Configuration.dll
@@ -286,6 +289,7 @@
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/System.CodeDom.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/System.Composition.AttributedModel.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/System.Composition.Convention.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/System.Composition.Hosting.dll
@@ -439,6 +443,16 @@
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/de/Microsoft.Data.SqlClient.resources.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/es/Microsoft.Data.SqlClient.resources.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/fr/Microsoft.Data.SqlClient.resources.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/it/Microsoft.Data.SqlClient.resources.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/ja/Microsoft.Data.SqlClient.resources.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/ko/Microsoft.Data.SqlClient.resources.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/ru/Microsoft.Data.SqlClient.resources.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
@@ -466,9 +480,9 @@
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/Debug/net7.0/staticwebassets.build.json
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/Debug/net7.0/staticwebassets.development.json
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/Debug/net7.0/scopedcss/bundle/StoreApi.styles.css
-/Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/Debug/net7.0/StoreApi.csproj.CopyComplete
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/Debug/net7.0/StoreApi.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/Debug/net7.0/refint/StoreApi.dll
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/Debug/net7.0/StoreApi.pdb
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/Debug/net7.0/StoreApi.genruntimeconfig.cache
 /Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/Debug/net7.0/ref/StoreApi.dll
+/Users/yohswhabello/Desktop/dotnetCore/StoreApi/obj/Debug/net7.0/StoreApi.csproj.CopyComplete

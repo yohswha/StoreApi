@@ -19,7 +19,14 @@ namespace StoreApi.Models
 
         public async Task<Product> GetByIdAsync(int id)
         {
-            return await _context.Products.FindAsync(id);
+            try
+            {
+               return await _context.Products.FirstOrDefaultAsync(a => a.ProductId == id);
+            }catch(Exception e)
+            {
+               Console.WriteLine(e.ToString());
+               return null;
+            }
         }
 
         public async Task<Product> AddAsync(Product product)

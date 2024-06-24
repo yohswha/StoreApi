@@ -11,7 +11,7 @@ namespace StoreApi.Models
         {
             _context = context;
         }
-        public Task<Supplier> AddAsync(Supplier supplier)
+        public async Task<Supplier> AddAsync(Supplier supplier)
         {
             _context.Suppliers.Add(supplier);
             await _context.SaveChangesAsync();
@@ -19,7 +19,7 @@ namespace StoreApi.Models
             throw new NotImplementedException();
         }
 
-        public Task DeleteAsync(int id)
+        public async Task DeleteAsync(int id)
         {
             var supplier = await _context.Suppliers.FindAsync(id);
             if (supplier != null)
@@ -30,21 +30,21 @@ namespace StoreApi.Models
             throw new NotImplementedException();
         }
 
-        public Task<IEnumerable<Supplier>> GetAllAsync()
+        public async Task<IEnumerable<Supplier>> GetAllAsync()
         {
             return await _context.Suppliers.ToListAsync();
 
             throw new NotImplementedException();
         }
 
-        public Task<Supplier> GetByIdAsync(int id)
+        public async Task<Supplier> GetByIdAsync(int id)
         {
             return await _context.Suppliers.FindAsync(id);
 
             throw new NotImplementedException();
         }
 
-        public Task<Supplier> UpdateAsync(Supplier supplier)
+        public async Task<Supplier> UpdateAsync(Supplier supplier)
         {
             _context.Entry(supplier).State = EntityState.Modified;
             await _context.SaveChangesAsync();
